@@ -1,0 +1,2 @@
+# TSPL_TSPL2_-
+TSC打印机指令手册，TSPL，PSPL2
